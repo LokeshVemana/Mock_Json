@@ -6,10 +6,20 @@
           "price":25000
       },
       {
-          "id":2,
-          "name":"vivo",
-          "price":30000
-      }
+        "id":2,
+        "name":"vivo",
+        "price":30000
+    },
+    {
+        "id":3,
+        "name":"oppo",
+        "price":35000
+    },
+    {
+        "id":4,
+        "name":"Samsung",
+        "price":40000
+    }
   ],
   "Orders":[
       {
